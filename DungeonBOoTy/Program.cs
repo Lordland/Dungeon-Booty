@@ -28,7 +28,7 @@ namespace DungeonBOoTy
         }
 
 
-
+        //Cambio mínimo
         private static void BotOnMessageRecieve(object sender, MessageEventArgs meargs)
         {
             var message = meargs.Message;
