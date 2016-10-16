@@ -26,8 +26,8 @@ namespace DungeonBOoTy
         {
             server = "bootybot.c8suk4minlgf.eu-central-1.rds.amazonaws.com";
             database = "bootydungeon";
-            uid = "bootybot";
-            password = "VodkaneitoR93";
+            uid = "public";
+            password = "public";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
